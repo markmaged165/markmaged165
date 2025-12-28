@@ -19,5 +19,5 @@ I am a data scientist and computer engineering student. I specialize in building
 ---
 
 <div align="left">
-  <a href="markmaged239@gmail.com">📫 Contact Me</a>
+  <a href="mailto:markmaged239@gmail.com">📫 Contact Me</a>
 </div>
