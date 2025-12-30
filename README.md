@@ -1,4 +1,4 @@
-### Hi there! 👋 I’m Mark (markmaged165)
+### Hi there! 👋 I’m Mark 
 
 I am a data scientist and computer engineering student. I specialize in building systems that bridge the gap between software and the real world, with a focus on Computer Vision and Machine Learning.
 
