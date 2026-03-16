@@ -17,7 +17,7 @@ I am a Data Scientist and Computer Engineer specializing in the intersection of 
 | :--- | :--- | :--- |
 | **[Clarify](https://github.com/markmaged165/Clarify_RAG_System)** | An enterprise-level RAG application with a decoupled microservice architecture for intelligent document interaction. | **FastAPI, LangChain, Gemini** |
 | **[PackGuard](https://github.com/markmaged165/PackGuard_System)** | An industrial hardware/software system that detects defects and verifies weight on production lines. | **Python, OpenCV, RPi** |
-| **[[Job Market Scraper](](https://github.com/markmaged165/Wuzzuf_python_scraping))** | A web scraping tool designed to analyze job trends and market demands. | **Python, Selenium** |
+| **[Job Market Scraper](https://github.com/markmaged165/Wuzzuf_python_scraping)** | A web scraping tool designed to analyze job trends and market demands. | **Python, Selenium** |
 | **[Book Recommendation System](https://github.com/markmaged165/DEPI)** | An ML engine that generates personalized book suggestions based on user reading history. | **Scikit-Learn, Pandas** |
 
 ---
